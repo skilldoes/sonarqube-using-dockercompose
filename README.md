@@ -27,6 +27,12 @@ It will ask for password change:
 --------------------
 
 Create an ADO Integration Token under user's profile section.
-Create an ADO Service Connection and Use the token created in above step
+
+Create an ADO Service Connection and Use the token created in above step.
+
+SonarScan  will work in ADO for default branch(main/master) with community version of Sonarqube but non default branches wont work. For non default branch, we should take developer or enterprise version
+
+
+
 
 
