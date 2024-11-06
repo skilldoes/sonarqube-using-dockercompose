@@ -19,3 +19,14 @@ cd sonarqube-using-dockercompose/
 chmod 755 *
 
 sh setup.sh 
+-----------------------
+
+Once the installation complete login by using credential  "admin/admin"
+It will ask for password change:
+
+--------------------
+
+Create an ADO Integration Token under user's profile section.
+Create an ADO Service Connection and Use the token created in above step
+
+
